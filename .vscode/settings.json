@@ -1,0 +1,23 @@
+{
+    /**
+     * Peacock colours plugin
+     * https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock
+     */
+    "peacock.color": "#00b3e6",
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#60c9f8",
+        "titleBar.inactiveBackground": "#60c9f8",
+        "titleBar.activeForeground": "#60c9f8",
+        "titleBar.inactiveForeground": "#60c9f8",
+        "statusBar.background": "#60c9f8",
+        "statusBarItem.hoverBackground": "#60c9f8",
+        "statusBar.foreground": "#15202b",
+        "tab.activeBorder": "#055a9d",
+        "activityBar.background": "#60c9f8",
+        "activityBar.foreground": "#15202b",
+        "activityBarBadge.background": "#ff0000"
+    },
+    "peacock.showColorInStatusBar": false,
+    "peacock.affectTabActiveBorder": true,
+    "peacock.affectActivityBar": false
+}
